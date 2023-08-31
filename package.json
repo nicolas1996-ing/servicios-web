@@ -1,0 +1,22 @@
+{
+  "name": "manipulacion-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "arr:map": "node methods/map.js",
+    "arr:filter": "node methods/filter.js",
+    "arr:reduce": "node methods/reduce.js",
+    "arr:find": "node methods/find.js",
+    "arr:findIndex": "node methods/findIndex.js",
+    "arr:every": "node methods/every.js",
+    "arr:some": "node methods/some.js",
+    "arr:forEach": "node methods/forEach.js",
+    "arr:exercise:1": "node exercises/exercise-one/app.js"
+  },
+  "keywords": [],
+  "author": "nicolas",
+  "license": "ISC"
+}
